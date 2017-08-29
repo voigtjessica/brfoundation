@@ -1,5 +1,6 @@
 
 #Script para projeto do Brazil Foundation submetido em 09/2017
+#Dados submetidos do projeto do dia 29/08
 
 library(dplyr)
 
